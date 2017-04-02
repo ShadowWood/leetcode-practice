@@ -1,7 +1,7 @@
 # leetcode 练习
 
 # 目录
-+ [Algorithms](./Algoritms)
++ [Algorithms](./Algorithms)
 + [Database](./Database)
 + [Shell](./Shell)
 + [Draft](./Draft)

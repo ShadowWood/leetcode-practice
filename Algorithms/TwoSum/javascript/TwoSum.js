@@ -3,7 +3,11 @@
  * @email shadowwood@foxmail.com
  * @create date 2017-04-03 12:00:25
  * @modify date 2017-04-03 12:00:25
- * @desc [description]
+ * @desc # solution特别说明：js 中使用es6并在Node.js的环境下运行的，
+ * 因为在Node.js中只要有函数回调的地方都是异步的方式，
+ * 所以方案2中使用数组的forEach方法去生成键值对会节约很多时间，
+ * 所以如果需要遍历的数组大小不是很大时，
+ * 会出现方案2可能与方案3的所花时间差不多甚至特殊情况下会比方案3稍微节约一些时间。
 */
 
 /**
